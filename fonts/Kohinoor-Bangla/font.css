@@ -1,0 +1,39 @@
+/* Kohinoor Bangla Regular */
+@font-face {
+    font-family: 'Kohinoor Bangla';
+    font-style: normal;
+    font-weight: 400;
+    src: url('https://cdn.jsdelivr.net/gh/Taraldinn/bangla-font/fonts/Kohinoor-Bangla/KohinoorBangla-Regular.woff2') format('woff2');
+}
+
+/* Kohinoor Bangla Bold */
+@font-face {
+    font-family: 'Kohinoor Bangla';
+    font-style: normal;
+    font-weight: 700;
+    src: url('https://cdn.jsdelivr.net/gh/Taraldinn/bangla-font/fonts/Kohinoor-Bangla/KohinoorBangla-Bold.woff2') format('woff2');
+}
+
+/* Kohinoor Bangla Light */
+@font-face {
+    font-family: 'Kohinoor Bangla';
+    font-style: normal;
+    font-weight: 300;
+    src: url('https://cdn.jsdelivr.net/gh/Taraldinn/bangla-font/fonts/Kohinoor-Bangla/KohinoorBangla-Light.woff2') format('woff2');
+}
+
+/* Kohinoor Bangla Medium */
+@font-face {
+    font-family: 'Kohinoor Bangla';
+    font-style: normal;
+    font-weight: 500;
+    src: url('https://cdn.jsdelivr.net/gh/Taraldinn/bangla-font/fonts/Kohinoor-Bangla/KohinoorBangla-Medium.woff2') format('woff2');
+}
+
+/* Kohinoor Bangla Semibold */
+@font-face {
+    font-family: 'Kohinoor Bangla';
+    font-style: normal;
+    font-weight: 600;
+    src: url('https://cdn.jsdelivr.net/gh/Taraldinn/bangla-font/fonts/Kohinoor-Bangla/KohinoorBangla-Semibold.woff2') format('woff2');
+}
